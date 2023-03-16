@@ -107,7 +107,7 @@ fcdb589a10944a69a4c689f2419e8187 rule created
 ```
 
 
- ## The code of tool used to complete the task
+ ## The tool used to complete the task:
 
 
 ``` python
