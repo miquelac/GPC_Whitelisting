@@ -28,7 +28,7 @@ Down below the Ip list created.
 
 And all zones have been deployed successfully.
 
-![image](img/TaskCompleted.PNG)
+![image](img/TaskCompleted1.PNG)
 
 
 
